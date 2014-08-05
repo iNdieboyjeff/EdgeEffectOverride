@@ -17,7 +17,6 @@ package uk.co.androidalliance.edgeeffectoverride;
 
 import android.content.Context;
 import android.content.res.TypedArray;
-import android.test.IsolatedContext;
 import android.util.AttributeSet;
 
 public class EdgeEffectListView extends android.widget.ListView {
